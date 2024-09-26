@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+🔭 I’m currently working as a Frontend Developer [JavaSscript, React JS, React Native, TypeScript].
+🌱 I’m currently learning Fullstack Development [Express, SQL, Postgres, MongoDB] & Data Structures & Algorithm
 <!--
 **sushant2928/sushant2928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-
